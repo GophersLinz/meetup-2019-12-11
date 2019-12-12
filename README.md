@@ -8,7 +8,7 @@
 
 ## The southern hemisphere of Go
 
-- Speaker: [Gernot Reisinger](#)
+- Speaker: [Gernot Reisinger](#) & [Michael Obermüller](#)
 - Slides: 
 
 ---
