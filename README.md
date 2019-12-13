@@ -3,7 +3,8 @@
 ## CI/CD for Go in Azure DevOps Pipelines
 
 - Speaker: [Rainer Stropek](#)
-- Slides: 
+- [Sample](ci-cd-golang-azure)
+- [Recording (YouTube)](https://youtu.be/50fCOM4JfbA)
 
 
 ## The southern hemisphere of Go
