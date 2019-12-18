@@ -2,14 +2,14 @@
 
 ## CI/CD for Go in Azure DevOps Pipelines
 
-- Speaker: [Rainer Stropek](#)
+- Speaker: [Rainer Stropek](https://github.com/rstropek)
 - [Sample](ci-cd-golang-azure)
 - [Recording (YouTube)](https://youtu.be/50fCOM4JfbA)
 
 
 ## The southern hemisphere of Go
 
-- Speaker: [Gernot Reisinger](#) & [Michael Obermüller](#)
+- Speaker: [Gernot Reisinger](https://github.com/Hollerberg) & [Michael Obermüller](https://github.com/michael-obermueller)
 - Slides: [PDF](tshog/The_southern_hemisphere_of_Go.pdf)
 
 ---
