@@ -10,7 +10,7 @@
 ## The southern hemisphere of Go
 
 - Speaker: [Gernot Reisinger](#) & [Michael Obermüller](#)
-- Slides: 
+- Slides: [PDF](tshog/The_southern_hemisphere_of_Go.pdf)
 
 ---
 
